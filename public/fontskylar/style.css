@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Skylar Sans';
+    src: local('Skylar Sans Bold'), local('Skylar-Sans-Bold'),
+        url('SkylarSansBold.woff2') format('woff2'),
+        url('SkylarSansBold.woff') format('woff'),
+        url('SkylarSansBold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
